@@ -1,6 +1,7 @@
 # http_request_app
 
-A new Flutter project.
+using StarWars api to fill the listView basic simple example for learning purposes.
+![](https://github.com/ElmouradiAmine/StarWars-Api/blob/master/Capture%20d’écran%202019-05-10%20à%2005.46.10.png)
 
 ## Getting Started
 
